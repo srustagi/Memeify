@@ -1,8 +1,8 @@
 {
 "manifest_version": 2,
-    "name": "Memeify (🅱)",
+    "name": "Memeify",
     "description": "Replace all instances of 'b' with 🅱.",
-    "version": "1.1",
+    "version": "1.2",
     "content_scripts": [
         {
             "matches": [
